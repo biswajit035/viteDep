@@ -1,0 +1,82 @@
+[
+    {
+        "id": "t-1",
+        "name": "Om Prakash Jha",
+        "role": "Founder & Mentor"
+    },
+    {
+        "id": "t-2",
+        "name": "Subhajit Das",
+        "role": "Advisor"
+    },
+    {
+        "id": "t-3",
+        "name": "Aniket Raj",
+        "role": "Student Representative"
+    }
+    ,{
+        "id": "t-4",
+        "name": "Arusree Mahapatra",
+        "role": "Student Representative"
+    },
+    {
+        "id": "t-5",
+        "name": "Bidhan Kumar",
+        "role": "PR & MANAGEMENT LEAD"
+    },
+    {
+        "id": "t-6",
+        "name": "Shivam Kumar",
+        "role": "PR & MANAGEMENT LEAD"
+    },
+    {
+        "id": "t-7",
+        "name": "Sayan Samanta",
+        "role": "Teaching  Head"
+    },
+    {
+        "id": "t-8",
+        "name": "Pritam Manna",
+        "role": "Teaching  Head"
+    },
+    {
+        "id": "t-4",
+        "name": "Arusree Mahapatra",
+        "role": "Creative  Head(CULTURAL)"
+    },
+    {
+        "id": "t-10",
+        "name": "Sohan Adak",
+        "role": "Creative  Head(GRAPHICS)"
+    },
+    {
+        "id": "t-11",
+        "name": "Riya Kumari",
+        "role": "Mentoring & counselling lead"
+    },
+    {
+        "id": "t-12",
+        "name": "Sumit Talukdar",
+        "role": "counselling lead"
+    },
+    {
+        "id": "t-13",
+        "name": "Divyanshu Kashyap",
+        "role": "Social Media Lead"
+    },
+    {
+        "id": "t-12",
+        "name": "Sumit Talukdar",
+        "role": "Traesurer"
+    },
+    {
+        "id": "t-15",
+        "name": "Biswajit Debnath",
+        "role": "Web Development Head"
+    },
+    {
+        "id": "t-16",
+        "name": "Sayk Ghosh",
+        "role": "Photography Head"
+    }
+]
